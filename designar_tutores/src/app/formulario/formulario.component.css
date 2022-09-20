@@ -1,0 +1,27 @@
+/*BODY*/
+p{
+    
+    color: rgb(212, 0, 255);
+}
+div.content-principal{
+    background-color: aquamarine;
+    border-color: black;
+    width: 900px;
+    height: 500px;
+    padding-left: 100px;
+    margin-left: 250px;
+    margin-right:300px;
+    margin-block-start: 75px;
+    /*margin-block-end: 200px;*/
+}
+div.content1{
+    background-color: rgba(113, 113, 197, 0.726);
+    width: 500px;
+    height: 250px;
+}
+div.content2{
+    background-color: rgba(212, 61, 94, 0.726);
+    width: 500px;
+    height: 250px;
+}
+
